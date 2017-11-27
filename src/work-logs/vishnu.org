@@ -1,0 +1,58 @@
+#+TITLE: Work Log of Vishnu
+#+AUTHOR: VLEAD
+#+DATE: [2017-11-16 Thu]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  All my Work logs are collated here.
+
+* Work Log of Vishnu Tej
+** Week 1 [2017-11-27 Mon] till [2017-12-03 Sun]
+    + [2017-11-27 11:55] login
+    + [2017-11-27 12:15] Started Verifying Requirements section of the instruction manual instructions
+      Processor : Intel(R) Core(TM) i7-3770 , CPU with 3.40GHz (Model : intel-db75en) 
+      RAM : 16 GB 
+      SMPS : 600 W 
+      CPUs: 8
+      MotherBoard wattage: 77 W
+    + [2017-11-27 12:20] Stop          
+    + [2017-11-27 12:20] Configured cloud server settings
+      primary DNS 10.2.57.62
+                  or
+      DNS1        10.2.57.62
+                  or 
+      nameserver  10.2.57.62
+                  or
+      domain name 10.2.57.62
+        
+      RESULT : Cloud server settings not modified
+
+      Report for the Manual
+       * No login credentials were provided
+       * Tried with the details given on Belkin router => (Invalid credentials).
+       * Tried the same after resetting the belkin =>(Invalid credentials)
+    + [2017-11-27 12:55] Stop
+    + [2017-11-27 12:55] Setting the hard disk and reboot the system
+    + [2017-11-27 13:30] Stop
+    + [2017-11-27 13:30] Vagrant up
+       Error message : SSH timeout
+    + [2017-11-27 13:40] Stop
+    + [2017-11-27 13:40] Modified file in /etc & Vagrant up
+      Error message :
+      An action up was attempted on the machine 'vlabs_platform' but another process is already executing an action on the machine
+      Report for the manual:
+      *No instructions were mentioned in the manual regarding the error messages.
+      *No instructions were provided to modify the file.
+    + [2017-11-27 13:55] Stop
+    + [2017-11-27 13:55] Vagrant up --provision
+      Error message :
+      If you believe this message is error ,please check the process listing for any "ruby" or "vagrant" processes and kill them.Then try again.
+      Report for the manual:
+      *No instructions were mentioned in the manual regarding the error messages.
+    + [2017-11-27 14:35] Stop
+    + [2017-11-27 15:00] Worklog
+    + [2017-11-27 15:25] Stop
